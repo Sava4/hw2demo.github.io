@@ -89,11 +89,15 @@
     color: #000;
 } 
 
+.right-conent-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
 .picture-block {
     box-sizing: border-box;
     text-align: center;
     display: inline-block;
-    vertical-align: top;
     width: 885px;
     height: 529px;
     border: 1px solid black;
